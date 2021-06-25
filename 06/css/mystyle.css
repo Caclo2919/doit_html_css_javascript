@@ -1,0 +1,14 @@
+#container {
+  width: 600px;
+  margin: 20px auto;
+}
+
+h1 {
+  width: 600px;
+  margin: 20px auto;
+}
+
+p {
+  font-weight: bold;
+  color: red;
+}
